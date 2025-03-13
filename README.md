@@ -4,23 +4,28 @@
 
 1. **Llama 3.2 1B Instruct RU**  
    Дообученная Llama 3.2 1B Instruct на русскоязычном датасете командой Vikhr.  
+
    [Ссылка на модель](https://huggingface.co/Vikhrmodels/Vikhr-Llama-3.2-1B-Instruct)
 
 2. **Llama 3.1 8B Instruct RU**  
    Дообученная Llama 3.1 8B Instruct на русскоязычном датасете командой Vikhr.  
+
    [Ссылка на модель](https://huggingface.co/Vikhrmodels/Vikhr-Llama3.1-8B-Instruct-R-21-09-24)
 
 3. **T-lite-it-1.0**  
    LLM семейства qwen2, 7.6b ~ 8b параметров, дообученная Т-банковцами для генерации текста на русском языке.  
+
    [Ссылка на модель](https://huggingface.co/t-tech/T-lite-it-1.0)
 
 4. **T-pro-it-1.0**  
    LLM семейства qwen2.5, 32.8b ~ 33b параметров, дообученная Т-банковцами для генерации текста на русском языке.  
+
    [Ссылка на модель](https://huggingface.co/t-tech/T-pro-it-1.0)
 
 5. **Nemo 12B Instruct RU**  
-   Дообученная Nemo 12B на русскоязычном датасете командой Vikhr. 
-   [Ссылка на модель](https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24)   
+   Дообученная Nemo 12B на русскоязычном датасете командой Vikhr.  
+
+   [Ссылка на модель](https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24)
 
 ---
 
