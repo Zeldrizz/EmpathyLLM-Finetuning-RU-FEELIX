@@ -21,6 +21,7 @@
 5. **Nemo 12B Instruct RU**  
    Дообученная Nemo 12B на русскоязычном датасете командой Vikhr. 
    [Ссылка на модель](https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24)   
+
 ---
 
 ## Датасеты
