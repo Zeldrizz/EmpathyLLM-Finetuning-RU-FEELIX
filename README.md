@@ -19,7 +19,7 @@
    [Ссылка на модель](https://huggingface.co/t-tech/T-pro-it-1.0)
 
 5. **Nemo 12B Instruct RU**  
-   Дообученная Nemo 12B на русскоязычном датасете командой Vikhr.
+   Дообученная Nemo 12B на русскоязычном датасете командой Vikhr. 
    [Ссылка на модель](https://huggingface.co/Vikhrmodels/Vikhr-Nemo-12B-Instruct-R-21-09-24)   
 ---
 
