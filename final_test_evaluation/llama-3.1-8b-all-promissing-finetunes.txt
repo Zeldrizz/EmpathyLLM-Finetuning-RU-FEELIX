@@ -1,0 +1,23 @@
+Здесь результаты test_loss модели llama 3.1 8b it (Vikhr), после fine-tuning на различных датасетах. 
+Для оценки использовались тестовые выборки датасетов, не участвовавшие в процессе fine-tuning.
+Представлены не все модели после fine-tuning, а только те, которые, на мой взгляд, показали наибольший потенциал.
+
+
+llama-3.1-8b-ep5-HF-jkhedri-psychology-translated-filtered
+Test Loss: 1.2484
+Test PPL:  3.4849
+
+
+llama-3.1-8b-ep5-YvvonM_mental_health_translated
+Test Loss: 1.1839
+Test PPL:  3.2671
+
+
+llama-3.1-8b-ep5-YvvonM_mental_health_translated-filtered
+Test Loss: 1.0713
+Test PPL:  2.9193
+
+
+llama-3.1-8b-ep3-STCD-GPT-Translated-Half
+Test Loss: 1.1881
+Test PPL:  3.2807

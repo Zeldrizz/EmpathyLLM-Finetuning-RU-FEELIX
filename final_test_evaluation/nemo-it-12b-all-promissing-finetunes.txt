@@ -1,0 +1,18 @@
+Здесь результаты test_loss модели nemo 12b it (Vikhr), после fine-tuning на различных датасетах. 
+Для оценки использовались тестовые выборки датасетов, не участвовавшие в процессе fine-tuning.
+Представлены не все модели после fine-tuning, а только те, которые, на мой взгляд, показали наибольший потенциал.
+
+
+nemo-12b-it-ep4-HF-jkhedri-psychology-translated-filtered
+Test Loss: 1.0051
+Test PPL:  2.7321
+
+
+nemo-12b-it-ep5-YvvonM_mental_health_translated
+Test Loss: 0.9784
+Test PPL:  2.6601
+
+
+nemo-12b-it-ep5-YvvonM_mental_health_translated-filtered
+Test Loss: 1.2202
+Test PPL:  3.3877
